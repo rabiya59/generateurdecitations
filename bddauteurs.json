@@ -1,0 +1,17 @@
+[
+    {
+        "nom": "Chomsky",
+        "citation": "Il ne faut pas briser les rêves des idéalistes.",
+    	"image": "photosfilms/chomsky.jpeg"
+    },
+    {
+        "nom": "Carl Gustav Jung",
+        "citation": "Soyez ce que vous avez toujours été.",
+    	"image": "photosfilms/jung.jpg"
+    },
+    {
+        "nom": "Henry David Thoreau",
+        "citation": "Il est plus désirable de cultiver le respect du bien que le respect de la loi.”",
+    	"image": "photosfilms/thoreau.jpeg"
+    }
+]

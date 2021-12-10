@@ -1,0 +1,43 @@
+[
+    {
+        "nom": "Matrix",
+        "citation": "Je n'ai pas dit que ce serait facile, Néo, j'ai dit que ce serait la vérité.",
+    	"image": "photosfilms/matrix.jpg"
+    },
+   
+    {
+        "nom": "American Beauty",
+        "citation": "Il ne faut pas briser les rêves des idéalistes.",
+    	"image": "photosfilms/AmericanBeauty.jpg"
+    },
+    {
+        "nom": "Cloud Atlas",
+        "citation": " La vérité est une. S'il y a des versions, il n'y a plus de vérité.",
+    	"image": "photosfilms/cloudatlas.jpg"
+    },
+   {
+        "nom": "La ligne Verte",
+        "citation": "Il les a tuées avec leur amour. C'est comme ça tous les jours dans le monde entier.",
+    	"image":"photosfilms/laligneverte.jpg"
+    },
+
+{
+        "nom": "Forrest Gump",
+        "citation":  "La vie c’est comme une boîte de chocolats, on ne sait jamais sur quoi on va tomber. ",
+    	"image": "photosfilms/forrest.jpg"
+    },
+{
+        "nom": "Fight Club",
+        "citation": "Les choses que l’on possède finissent par nous posséder.",
+    	"image": "photosfilms/fightclub.jpg"
+    },
+{
+        "nom": "Les évadés",
+        "citation": " Dépêche toi de vivre, ou dépêche toi de mourir. ",
+    	"image": "photosfilms/lesevades.jpg"
+},
+       {  "nom": "Jurrasic Park",
+        "citation": "Putain, j'en ai marre d'avoir toujours raison.",
+    	"image": "photosfilms/jurassic.jpg"
+    }
+]
